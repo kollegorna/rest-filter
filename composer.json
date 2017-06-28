@@ -1,0 +1,12 @@
+{
+    "name": "kollegorna/rest-filter",
+    "description": "Restores the `filter` param to post enpdpoints.",
+    "keywords": [
+        "wp",
+        "wp-api",
+        "rest"
+    ],
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/kollegorna/rest-filter",
+    "license": "MIT"
+}
